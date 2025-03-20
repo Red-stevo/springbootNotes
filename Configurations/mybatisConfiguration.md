@@ -1,7 +1,4 @@
-# springbootNotes.
-## springboot database operation configurations.
-
-## MyBatis Configuration in Spring Boot
+# MyBatis Configuration in Spring Boot
 
 This guide provides step-by-step instructions for setting up **MyBatis** in a Spring Boot project using XML-based SQL mapping.
 
